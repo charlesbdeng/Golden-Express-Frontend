@@ -1,0 +1,35 @@
+{
+  "name": "Golden Express",
+  "version": "0.0.0",
+  "description": "Hello Expo!",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "script": "babel-node scripts.js"
+  },
+  "private": true,
+  "dependencies": {
+    "@expo/vector-icons": "github:expo/vector-icons",
+    "expo": "^25.0.0",
+    "prop-types": "^15.6.2",
+    "proptypes": "^1.1.0",
+    "react": "16.2.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz",
+    "react-native-autocomplete-input": "^3.5.0",
+    "react-native-credit-card-input": "^0.4.1",
+    "react-native-elements": "^0.19.1",
+    "react-native-loading-spinner-overlay": "^0.1.1",
+    "react-native-step-indicator": "0.0.9",
+    "react-native-vector-icons": "^5.0.0",
+    "react-navigation": "^1.5.12",
+    "react-redux": "^5.0.7",
+    "redux": "^4.0.0",
+    "rn-viewpager": "^1.2.9",
+    "tipsi-stripe": "^5.4.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
