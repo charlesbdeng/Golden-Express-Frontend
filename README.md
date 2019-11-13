@@ -57,4 +57,4 @@ You can ignore `scripts.js`, `webpack.config.js`
 
 ## Usage Walkthrough 
 
-[Google slide's walkthough of the mobile app](https://docs.google.com/presentation/d/1PZirkY8aWx1wD_0ech_jMaPf5K8nPcQ7hbxHgIznqAg/edit?usp=sharing "Golden Express Mobile App Walkthrough")
+[Google slide's walkthough of the mobile app](https://drive.google.com/file/d/1bW3BOfiECic5aDAimH23xOlGci5zpo9m/view?usp=sharing "Golden Express Mobile App Walkthrough")
