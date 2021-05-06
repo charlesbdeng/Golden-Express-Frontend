@@ -26,7 +26,7 @@
     "redux": "^4.0.0",
     "rn-viewpager": "^1.2.9",
     "tipsi-stripe": "^5.4.0",
-    "underscore": "^1.9.1"
+    "underscore": "^1.12.1"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
